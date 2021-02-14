@@ -1,0 +1,13 @@
+name: wordPredictApp
+title: wordPredictApp
+username:
+account: edgardodibello
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3633801
+bundleId: 4219950
+url: https://edgardodibello.shinyapps.io/wordPredictApp/
+when: 1613266208.59244
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: WordPredictCapstonePresentation.html|WordPredictCapstonePresentation.Rmd
